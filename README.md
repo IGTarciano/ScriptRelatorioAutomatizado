@@ -2,6 +2,9 @@
 Este script em Python é uma ferramenta para automatizar a geração de relatórios de emergência a partir de um arquivo de dados do Excel, focando especificamente em pedidos de um fornecedor principal. Ele processa os dados, filtra informações relevantes e organiza os resultados em diferentes abas de uma planilha Excel, facilitando a análise.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 # Funcionalidades Principais
 
 ## Leitura de Dados: O script inicia o processo lendo um arquivo Excel (.xlsx) que deve ser carregado pelo usuário.
